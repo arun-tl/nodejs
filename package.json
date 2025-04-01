@@ -1,0 +1,7 @@
+{
+  "name": "ccm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tl-arun <arun@talkinglands.com>",
+  "license": "MIT"
+}
