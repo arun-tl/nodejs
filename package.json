@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "tl-arun <arun@talkinglands.com>",
-  "license": "MIT"
+  "license": "MIT",
+  
+  "scripts": {
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
